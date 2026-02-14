@@ -1,33 +1,27 @@
-<div align="center">
-
-# 🏛️ Laksman Dhinahar
+# Haii ! I'm  Laksman Dhinahar
 **Building systems that scale, with capital I don’t have and secrets I can’t tell.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/laksmandhinahar) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@refer.laks)
+---
+
+### This is me :  
+I’m a CS student (Class of 2027) based in **Chennai**, currently operating at the intersection of "I have an idea" and "How did he build that with zero budget?" 
+
+My specialty is the **Zero-Capital Startup**: taking raw logic and turning it into commercially viable B2C systems. Whether it's **Java** for the heavy lifting or **Flutter** for the front-row seat, I build for scale, not for show.
+
+### "Quiet" GitHub ??
+If my contribution graph looks suspiciously calm, it’s because my code is currently living a double life. 
+
+Most of my work—ranging from **proprietary freelance engines** to **stealth-mode research** in Cryptography—is tucked away under NDAs and private repositories. I spend my time building for businesses that value privacy as much as performance.
+
+**Think of this profile as a speakeasy:** The best stuff is hidden behind the curtain. However, I’m always down to provide a private tour of my core systems—like **ECHO**, **Reserve**, or **Atelier**—upon request.
 
 ---
 
-### 🖋️ The Lowdown
-**Chennai-based Founder & CS Engineer (2027)** Specializing in **Zero-Capital Startups** and the art of the **"Speakeasy" GitHub.** Most of my code lives a double life under NDAs and private research. If my contribution graph looks suspiciously quiet, it’s because I spend my time building for businesses that value privacy as much as performance.
-
-`[ Inquire for private repository access via LinkedIn ]`
-
-</div>
+### 📬 The Rolodex
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laksmandhinahar) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@refer.laks)
 
 ---
 
-### 📊 Vital Signs
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Laks-D&theme=dark&hide_border=true&count_private=true&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laks-D&theme=dark&hide_border=true&layout=compact&count_private=true" width="48%" />
-<br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Laks-D&theme=dark&hide_border=true" width="97%" />
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=Laks-D&icon=3&color=8" />
 </p>
-
----
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Laks-D&icon=3&color=8" />
-
-</div>
