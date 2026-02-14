@@ -34,19 +34,3 @@ Most of my work—ranging from **proprietary freelance engines** to **stealth-mo
 > **Infrastructure & Databases**
 ![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### Vital Signs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laks-D&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laks-D&theme=dark&hide_border=true&layout=compact&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Laks-D&theme=dark&hide_border=true" width="100%" />
-</p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Laks-D&icon=3&color=8" />
-</p>
