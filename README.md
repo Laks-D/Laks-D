@@ -22,6 +22,3 @@ Most of my work—ranging from **proprietary freelance engines** to **stealth-mo
 
 ---
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Laks-D&icon=3&color=8" />
-</p>
